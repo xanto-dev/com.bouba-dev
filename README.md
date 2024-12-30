@@ -26,5 +26,5 @@ git push origin main
 ## Création d'une branche
 
 ```bash
-git checkout -b develop
+git checkout -b NOM_BRANCHE
 ```
